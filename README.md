@@ -8,7 +8,12 @@
 
 ### Your Message Has Been Delivered to the Void
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin,gmail" />
+<a href="https://www.linkedin.com/in/ahmed-niaz" target="_blank">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" />
+</a>
+<a href="mailto:niazahmed.an@gmail.com">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" />
+</a>
 
 ### My Streak Has More Stability Than My Life
 

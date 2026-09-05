@@ -4,6 +4,6 @@
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,css&perline=7" />
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,prisma,git,docker,postman&perline=9" />
-<img src="https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=000" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=drizzle" />
 
 </div>

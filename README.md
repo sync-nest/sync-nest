@@ -1,4 +1,16 @@
-<div align="center">
+<style>
+  .readme-content {
+    font-family: "Cascadia Code", "Fira Code", monospace;
+    font-size: 16px;
+    font-weight: 500;
+  }
+  .readme-content h3 {
+    font-family: "Cascadia Code", "Fira Code", monospace;
+    font-size: 18px;
+    font-weight: 600;
+  }
+</style>
+<div align="center" class="readme-content">
 
 ### Technologies That Somehow Haven't Fired Me Yet
 
